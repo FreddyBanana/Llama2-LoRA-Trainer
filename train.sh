@@ -6,8 +6,8 @@ python main.py \
 	--CONTEXT_LEN 64 \
 	--TARGET_LEN 192 \
 	--LORA_R 16 \
-	--LORA_DROPOUT 0.5 \
-	--MODEL_NAME NousResearch/Nous-Hermes-Llama2-13b \
+	--LORA_DROPOUT 0.2 \
+	--MODEL_NAME TheBloke/Llama-2-7B-fp16 \
 	--OUTPUT_DIR ./output_model \
 	--DATA_PATH ./new_train.json \
 	--DATA_TYPE json \
