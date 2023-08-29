@@ -174,3 +174,5 @@ python inference.py \
 [Fine_Tuning_LLama | Kaggle](https://www.kaggle.com/code/gunman02/fine-tuning-llama?scriptVersionId=128204744)
 
 [FreddyBanana/ChatGLM2-LoRA-Trainer: Simple 4-bit/8-bit LoRA fine-tuning for ChatGLM2 with peft and transformers.Trainer. (github.com)](https://github.com/FreddyBanana/ChatGLM2-LoRA-Trainer)
+
+[mymusise/ChatGLM-Tuning: 一种平价的chatgpt实现方案, 基于ChatGLM-6B + LoRA (github.com)](https://github.com/mymusise/ChatGLM-Tuning/tree/master)
