@@ -1,8 +1,8 @@
 python main.py \
 	--MICRO_BATCH_SIZE 8 \
 	--BATCH_SIZE 16 \
-	--EPOCHS 50 \
-	--LEARNING_RATE 5e-5 \
+	--EPOCHS 10 \
+	--LEARNING_RATE 5e-6 \
 	--CONTEXT_LEN 64 \
 	--TARGET_LEN 192 \
 	--LORA_R 16 \
